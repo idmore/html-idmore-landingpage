@@ -1,3 +1,6 @@
+# html-idmore-landingpage
+demo template http://byidmore.netify.com
+
 ## First time
 After clone this repo to your local, start install developmet tool using this command
 ```
